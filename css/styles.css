@@ -76,12 +76,16 @@ header{
     
 }
 
+.videobox{
+    position: relative;
+}
+
 .name{
     display: block;
     position: absolute;
     font-size: 50px;
-    top: 400px;
-    left: 650px;
+    top: 350px;
+    left: 410px;
     color: #fff;
 }
 
